@@ -1,3 +1,4 @@
+} finally {
 test.fetch();
 try {
 OracleJdbcTest test = new OracleJdbcTest();
