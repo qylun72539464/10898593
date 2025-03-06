@@ -1,3 +1,4 @@
+BufferedWriter out = null;
 } finally {
 test.fetch();
 try {
