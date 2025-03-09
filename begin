@@ -1,3 +1,4 @@
+con=DriverManager.getConnection(url, userName, password);
 BufferedWriter out = null;
 } finally {
 test.fetch();
