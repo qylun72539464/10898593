@@ -1,3 +1,4 @@
+Connection con;
 while (rs.next())
 con=DriverManager.getConnection(url, userName, password);
 BufferedWriter out = null;
