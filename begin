@@ -1,3 +1,4 @@
+// do the thing you do
 } catch (IOException e) {
 String userName = props.getProperty("db.user");
 PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
