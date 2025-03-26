@@ -1,3 +1,4 @@
+ps.close();
 // error processing code
 con=DriverManager.getConnection(url, userName, password);
 test.fetch();
