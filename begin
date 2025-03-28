@@ -1,3 +1,4 @@
+Class.forName(driverClass);
 props.load(fs);
 ps.close();
 // error processing code
